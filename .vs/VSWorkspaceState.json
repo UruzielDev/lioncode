@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app\\Console",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Auth",
+    "\\storage\\app",
+    "\\storage\\app\\public",
+    "\\storage\\framework"
+  ],
+  "PreviewInSolutionExplorer": false
+}
